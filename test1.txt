@@ -1,2 +1,3 @@
 hello mr how are u?
 how much time do you give to learn test automation.
+I try to give alleast six hour to learn test automation.
